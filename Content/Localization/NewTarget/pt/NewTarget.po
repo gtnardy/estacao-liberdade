@@ -1,0 +1,134 @@
+﻿# NewTarget Portuguese translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: NewTarget\n"
+"POT-Creation-Date: 2019-09-09 21:14\n"
+"PO-Revision-Date: 2019-09-09 21:14\n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	0F518733430F48F9CFC3EDB31CA3482F
+#. SourceLocation:	/Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.TextBlock_43.Text
+#: /Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.TextBlock_43.Text
+msgctxt ",0F518733430F48F9CFC3EDB31CA3482F"
+msgid "gabriel nardy & gabriel olivato"
+msgstr "gabriel nardy & gabriel olivato"
+
+#. Key:	16B52BC1460BBA6DCE1634856FF528D2
+#. SourceLocation:	/Game/Audios/jeito_idiota_morrer.jeito_idiota_morrer.Subtitles(0).Subtitles.Text
+#: /Game/Audios/jeito_idiota_morrer.jeito_idiota_morrer.Subtitles(0).Subtitles.Text
+msgctxt ",16B52BC1460BBA6DCE1634856FF528D2"
+msgid "Um jeito muito idiota de morrer."
+msgstr "Um jeito muito idiota de morrer."
+
+#. Key:	17F149754DDE44113DABEFAEDD89646A
+#. SourceLocation:	/Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.Est_1.Text
+#: /Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.Est_1.Text
+msgctxt ",17F149754DDE44113DABEFAEDD89646A"
+msgid "jogo feito em 24h para a Game Jam GAMESCOMP 2019\r\n\r\nparticipação especial:\r\n     Miraboa (Música e Voz)\r\n\r\nassets por:\r\n     Dekogon Studios"
+msgstr "jogo feito em 24h para a Game Jam GAMESCOMP 2019 utilizando Assets gratuitos do Marketplace\r\n\r\nparticipação especial:\r\n     Miraboa (Música e Voz)\r\n\r\nassets por:\r\n     Dekogon Studios"
+
+#. Key:	23A45C8944E5AFB53B37FF9A25A86D75
+#. SourceLocation:	/Game/Audios/tedio_nao_acidente.tedio_nao_acidente.Subtitles(0).Subtitles.Text
+#: /Game/Audios/tedio_nao_acidente.tedio_nao_acidente.Subtitles(0).Subtitles.Text
+msgctxt ",23A45C8944E5AFB53B37FF9A25A86D75"
+msgid "Eu iria morrer de tédio se não fosse o acidente."
+msgstr "Eu iria morrer de tédio se não fosse o acidente."
+
+#. Key:	37FB5F4F4D3E6528F7ED668BC355541C
+#. SourceLocation:	/Game/Audios/nao_estou_reclamando.nao_estou_reclamando.Subtitles(0).Subtitles.Text
+#: /Game/Audios/nao_estou_reclamando.nao_estou_reclamando.Subtitles(0).Subtitles.Text
+msgctxt ",37FB5F4F4D3E6528F7ED668BC355541C"
+msgid "Não estou reclamando."
+msgstr "Não estou reclamando."
+
+#. Key:	3E7379C74F19C6075864D48D36307A7F
+#. SourceLocation:	/Game/Audios/eu_era_esse_tipo_de_pessoa.eu_era_esse_tipo_de_pessoa.Subtitles(0).Subtitles.Text
+#: /Game/Audios/eu_era_esse_tipo_de_pessoa.eu_era_esse_tipo_de_pessoa.Subtitles(0).Subtitles.Text
+msgctxt ",3E7379C74F19C6075864D48D36307A7F"
+msgid "Eu era esse tipo de pessoa."
+msgstr "Eu era esse tipo de pessoa."
+
+#. Key:	505AFA8B4C62D534F5E7FE9A89EAD577
+#. SourceLocation:	/Game/Audios/inicio.inicio.Subtitles(0).Subtitles.Text
+#: /Game/Audios/inicio.inicio.Subtitles(0).Subtitles.Text
+msgctxt ",505AFA8B4C62D534F5E7FE9A89EAD577"
+msgid "Próxima parada: Estação Liberdade"
+msgstr "Próxima parada: Estação Liberdade"
+
+#. Key:	54AF94E04FBEE423C1C4A48562C8E391
+#. SourceLocation:	/Game/Audios/mas_adivinha.mas_adivinha.Subtitles(0).Subtitles.Text
+#: /Game/Audios/mas_adivinha.mas_adivinha.Subtitles(0).Subtitles.Text
+msgctxt ",54AF94E04FBEE423C1C4A48562C8E391"
+msgid "Mas adivnha!"
+msgstr "Mas adivnha!"
+
+#. Key:	690C686A4E7D2DC0B816508EC70BD76C
+#. SourceLocation:	/Game/Audios/eu_era_mt_chato.eu_era_mt_chato.Subtitles(0).Subtitles.Text
+#: /Game/Audios/eu_era_mt_chato.eu_era_mt_chato.Subtitles(0).Subtitles.Text
+msgctxt ",690C686A4E7D2DC0B816508EC70BD76C"
+msgid "Eu era muito chato."
+msgstr "Eu era muito chato."
+
+#. Key:	79E750A944C0B10CBB89D3A6EB8B3FE1
+#. SourceLocation:	/Game/Audios/jogava_mesmos_jogos.jogava_mesmos_jogos.Subtitles(0).Subtitles.Text
+#: /Game/Audios/jogava_mesmos_jogos.jogava_mesmos_jogos.Subtitles(0).Subtitles.Text
+msgctxt ",79E750A944C0B10CBB89D3A6EB8B3FE1"
+msgid "Jogava todos os dias os mesmos jogos..."
+msgstr "Jogava todos os dias os mesmos jogos..."
+
+#. Key:	8F07EF4A4D7F49A0792B9DB5097B99E1
+#. SourceLocation:	/Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.TextBlock_50.Text
+#: /Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.TextBlock_50.Text
+msgctxt ",8F07EF4A4D7F49A0792B9DB5097B99E1"
+msgid "WASD - Movimentação\r\nMouse - Camera\r\nClick Esquerdo - Interação\r\nClick Direito - Foco\r\nControl - Agachar"
+msgstr "L - Change Language\r\n\r\nWASD - Movimentação\r\nMouse - Camera\r\nClick Esquerdo - Interação\r\nClick Direito - Foco\r\nControl - Agachar"
+
+#. Key:	8F838074494A4B1EC63167A4997C6B02
+#. SourceLocation:	/Game/Audios/um_dia_morri.um_dia_morri.Subtitles(0).Subtitles.Text
+#: /Game/Audios/um_dia_morri.um_dia_morri.Subtitles(0).Subtitles.Text
+msgctxt ",8F838074494A4B1EC63167A4997C6B02"
+msgid "Um dia eu morri em um acidente"
+msgstr "Um dia eu morri em um acidente"
+
+#. Key:	B65C08574965835C78A5B885A24BBAB3
+#. SourceLocation:	/Game/Audios/todo_santo_dia.todo_santo_dia.Subtitles(0).Subtitles.Text
+#: /Game/Audios/todo_santo_dia.todo_santo_dia.Subtitles(0).Subtitles.Text
+msgctxt ",B65C08574965835C78A5B885A24BBAB3"
+msgid "Todo santo dia eu comia a mesma comida."
+msgstr "Todo santo dia eu comia a mesma comida."
+
+#. Key:	D699E0684E69D37F2DEA858EBCB6CE12
+#. SourceLocation:	/Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.TextBlock_104.Text
+#: /Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.TextBlock_104.Text
+msgctxt ",D699E0684E69D37F2DEA858EBCB6CE12"
+msgid "pressione espaço para iniciar"
+msgstr "pressione espaço para iniciar"
+
+#. Key:	D6EA09844C57A4669605D09DC29A7495
+#. SourceLocation:	/Game/Audios/estou_voltando_trazendo_amigos.estou_voltando_trazendo_amigos.Subtitles(0).Subtitles.Text
+#: /Game/Audios/estou_voltando_trazendo_amigos.estou_voltando_trazendo_amigos.Subtitles(0).Subtitles.Text
+msgctxt ",D6EA09844C57A4669605D09DC29A7495"
+msgid "Mas adivinha, eu estou voltando..."
+msgstr "Mas adivinha, eu estou voltando..."
+
+#. Key:	E73BB5A840D4B5090B7DBDA56223D78A
+#. SourceLocation:	/Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.Est.Text
+#: /Game/Blueprins/WIDGERRT.WIDGERRT_C:WidgetTree.Est.Text
+msgctxt ",E73BB5A840D4B5090B7DBDA56223D78A"
+msgid "estação liberdade"
+msgstr "estação liberdade"
+
+#. Key:	F7CDDCDA4D6920544D251A85C0C9B8C9
+#. SourceLocation:	/Game/Audios/usava_a_mesma_roupa.usava_a_mesma_roupa.Subtitles(0).Subtitles.Text
+#: /Game/Audios/usava_a_mesma_roupa.usava_a_mesma_roupa.Subtitles(0).Subtitles.Text
+msgctxt ",F7CDDCDA4D6920544D251A85C0C9B8C9"
+msgid "Usava a mesma roupa..."
+msgstr "Usava a mesma roupa..."
+
