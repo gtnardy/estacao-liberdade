@@ -12,5 +12,5 @@ Fan Made Gameplay Videos:
 [![](https://i.imgur.com/224eGns.png)](https://youtu.be/eRhZ5sp5cvE)
 
 Authors:
-[@gtnardy](github.com/gtnardy)
-[@olivatooo](github.com/olivatooo)
+[@gtnardy](https://github.com/gtnardy)
+[@olivatooo](https://github.com/olivatooo)
