@@ -10,3 +10,7 @@ Fan Made Gameplay Videos:
 [![](https://i.imgur.com/B18LYd7.png)](https://youtu.be/043Fa0TJGdQ)
 [![](https://i.imgur.com/XOKBRca.png)](https://youtu.be/YXThYFCtgAg)
 [![](https://i.imgur.com/224eGns.png)](https://youtu.be/eRhZ5sp5cvE)
+
+Authors:
+[@gtnardy](github.com/gtnardy)
+[@olivatooo](github.com/olivatooo)
